@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Citius, Fortius, Altius"
 Use the left arrow to go back!
